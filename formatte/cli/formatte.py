@@ -45,3 +45,7 @@ def formatte(file_name):
 
     for file in files:
         edit_file(file)
+
+    print('\n############################################')
+    print('#   Sucessfully converted selected files   #')
+    print('############################################')
